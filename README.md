@@ -35,8 +35,14 @@ conda activate myenv/
 Install following Packages:
 
 pip install -r requirements.txt
+
+
 pip install sentence_transformer
+
+
 pip install llama_index
+
+
 huggingface-cli login
 
     
