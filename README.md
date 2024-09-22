@@ -55,3 +55,6 @@ To deploy this project run
 
 streamlit run app.py
 
+## Documentation
+[RAGApp](https://python.langchain.com/docs/tutorials/rag/)
+
