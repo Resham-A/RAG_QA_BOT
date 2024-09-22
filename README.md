@@ -13,14 +13,32 @@ Here is the QA bot which is allowing users to upload PDF documents and ask quest
 
 ## Prerequisites:
 langchain_community
+
+
 langchain_core
+
+
 langserve
+
+
 PyPDF2
+
+
 python-dotenv
+
+
 streamlit
+
+
 streamlit-extras
+
+
 fastapi
+
+
 pandas
+
+
 faiss-CPU
 
 ## Installation
